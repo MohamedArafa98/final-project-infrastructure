@@ -8,3 +8,7 @@ gcloud auth set application-default
 cd terraform/
 terraform init
 terraform apply
+
+### To install Jenkins follow the next link
+
+https://github.com/MohamedArafa98/final-project-infrastructure/blob/main/jenkins/README.md
